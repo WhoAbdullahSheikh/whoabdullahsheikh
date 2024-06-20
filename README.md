@@ -14,7 +14,7 @@
 ### :man_technologist: About Me :
 - 👋 Hi, I’m Sheikh Muhammad Abdullah
 
-- 👀 I’m Working on i.e C++, HTML CSS, PHP, JS Script, JS, React Native, Android/IOS Developement
+- 👀 I’m Working on i.e C++, HTML CSS, PHP, JS, React Native, Android/IOS Developement
 
 - 🌱 I’m Full-Stack Developer
 
