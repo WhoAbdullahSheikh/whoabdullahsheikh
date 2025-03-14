@@ -15,7 +15,7 @@
 - Hi, I'm Sheikh Muhammad Abdullah, a passionate Software Engineer with hands-on experience as a Full-Stack Mobile Application & Web Developer. I've completed multiple projects based on Mobile application & Web Development. Skilled in React Native, MERN 
   Stack, Web Development, and Full-Stack Development
 
-- I’m Working on C++, HTML5 CSS, PHP, WordPress, JavaScript, TypeScript, React Native, MERN Stack, Node.JS, MySQL, NoSQL, Android / IOS Developement
+- I’m Working on C++, HTML5 CSS, PHP, WordPress, JavaScript, TypeScript, React Native, MERN Stack, Node.JS, MySQL, NoSQL, Android / IOS Developement, AWS, Robot Framework, Selenium
 
 
 - 📫 How to reach me for work : contact.abdullahsheikh@gmail.com
