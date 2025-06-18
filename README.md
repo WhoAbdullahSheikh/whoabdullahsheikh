@@ -12,16 +12,16 @@
 
 
 ## :man_technologist: About Me :
-- Hi, I'm Sheikh Muhammad Abdullah, a passionate Software Engineer with hands-on experience of 1.5 years as a Full-Stack Mobile Application & Web Developer. I've completed multiple projects based on MERN Stack, Mobile application & Web Development. Skilled in React Native, MERN 
-  Stack, Web Development, and Full-Stack Development
+- Hi, I'm Muhammad Abdullah, a passionate Software Engineer with hands-on experience of 1.5 years as a Full-Stack Mobile Application & Web Developer. I've completed multiple projects based on MERN Stack, Mobile application & Web Development. Skilled in React Native, MERN Stack, Web Development, and Full-Stack Development
 
-- I’m Working on C++, HTML5 CSS, PHP, WordPress, JavaScript, TypeScript, React Native, MERN Stack, Node.JS, MySQL, NoSQL, Android / IOS Developement, AWS, Robot Framework, Selenium
+- I’m currently working with IOS/Android Development, Desktop Development, JavaScript, TypeScript, Electron, React Native, MERN Stack, Node.JS, MySQL, NoSQL, AWS, Robot Framework, Selenium, C++, HTML5 CSS, PHP, WordPress.
 
 
 - 📫 How to reach me for work : contact.abdullahsheikh@gmail.com
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" **alt="Electron" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -37,6 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Apple" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" **alt="Android" width="40" height="40"/>
+
   
 </div>
 
