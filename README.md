@@ -17,7 +17,7 @@
 - I’m currently working with IOS/Android Development, Desktop Development, JavaScript, TypeScript, Electron, React Native, MERN Stack, Node.JS, MySQL, NoSQL, AWS, Robot Framework, Selenium, C++, HTML5 CSS, PHP, WordPress.
 
 
-- 📫 How to reach me for work : contact.abdullahsheikh@gmail.com
+- 📫 How to reach me for work : developer.muhammadabdullah@gmail.com
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
