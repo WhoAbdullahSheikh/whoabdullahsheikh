@@ -18,7 +18,7 @@
 const abdullah = {
   name: "Muhammad Abdullah Sheikh",
   role: "Full-Stack Mobile & Web Developer",
-  experience: "1.5+ years",
+  experience: "4.5+ years",
   location: "Pakistan 🇵🇰",
   currentlyBuilding: ["iOS/Android Apps", "Desktop Apps", "MERN Stack Projects"],
   stack: {
